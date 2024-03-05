@@ -1,4 +1,4 @@
-import './navbar.css';
+import './Navbar.css';
 // import { PiChatTeardropTextLight } from "react-icons/pi";
 import { Link } from "react-scroll";
 import { CgMenu } from "react-icons/cg";
