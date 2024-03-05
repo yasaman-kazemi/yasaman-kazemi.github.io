@@ -3,7 +3,8 @@ import './Footer.css'
 const Footer = () => {
     return (
         <footer className='footer'>
-            I would be happy to hear about you!
+           © 2024 Yasaman Kazemi. All rights reserved.
+
         </footer>
     )
 }
