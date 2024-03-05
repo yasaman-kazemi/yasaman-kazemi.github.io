@@ -61,11 +61,13 @@
     .skillBarText>p {
         font-size: 3vw;
     }
+
     .skillBarIcon {
-        height: 6rem;
-        width: 6rem;
+        height: 16rem;
+        width: 16rem;
     }
-    .skillBarText>h2{
+
+    .skillBarText>h2 {
         font-size: 5vw;
     }
 }

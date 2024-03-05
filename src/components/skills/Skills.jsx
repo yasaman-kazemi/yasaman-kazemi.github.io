@@ -47,7 +47,7 @@ const Skills = () => {
                     <RiHtml5Line className='skillBarIcon' />
                     <div className="skillBarText">
                         <h2>
-                            HTML & CSS
+                            HTML
                         </h2>
                         <p>
                             Proficient in HTML and CSS, I can craft visually appealing and responsive web layouts while ensuring accessibility and semantic markup. I leverage the latest HTML5 and CSS3 features to create modern and stylish user interfaces.
