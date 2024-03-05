@@ -1,4 +1,4 @@
-import './skills.css';
+import './Skills.css';
 // , FaGithubSquare, FaCss3
 import { FaJava, FaReact, FaCss3, FaChartBar, FaDatabase, FaCamera } from "react-icons/fa";
 import { RiJavascriptFill, RiHtml5Line } from "react-icons/ri";
