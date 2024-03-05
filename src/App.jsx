@@ -1,4 +1,4 @@
-import Navbar from "./components/Navbar/navbar"
+import Navbar from "./components/navbar/Navbar"
 import Intro from "./components/intro/Intro"
 import Skills from "./components/skills/Skills"
 import Works from "./components/works/Works"
@@ -13,8 +13,8 @@ function App() {
       <Intro />
       <Skills />
       <Works />
-      <Contact/>
-      <Footer/>
+      <Contact />
+      <Footer />
     </div>
   )
 }
