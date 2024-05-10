@@ -58,10 +58,10 @@ const Skills = () => {
                     <FaCss3 className='skillBarIcon' />
                     <div className="skillBarText">
                         <h2>
-                            Bootstrap & Material UI
+                            CSS frameworks
                         </h2>
                         <p>
-                            I am adept at using Bootstrap and Material UI, two popular frontend frameworks, to expedite the development process and create consistent and aesthetically pleasing UI components. These frameworks provide a wealth of pre-designed elements and responsive layout utilities.
+                            I am adept at using Bootstrap and Tailwind, two popular frontend frameworks, to expedite the development process and create consistent and aesthetically pleasing UI components. These frameworks provide a wealth of pre-designed elements and responsive layout utilities.
                         </p>
                     </div>
                 </div>
@@ -80,7 +80,7 @@ const Skills = () => {
                     <FaChartBar className='skillBarIcon' />
                     <div className="skillBarText">
                         <h2>
-                            Data Analysis
+                            Data Analysis- R programming language
                         </h2>
                         <p>
                             I have hands-on experience in data analysis using R programming language, a powerful tool for statistical computing and data visualization. With R, I can perform exploratory data analysis, statistical modeling, and generate insights from complex datasets.
